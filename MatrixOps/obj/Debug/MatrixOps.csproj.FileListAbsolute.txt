@@ -1,0 +1,6 @@
+c:\users\mooor\documents\visual studio 2015\Projects\MatrixOps\MatrixOps\bin\Debug\MatrixOps.exe.config
+c:\users\mooor\documents\visual studio 2015\Projects\MatrixOps\MatrixOps\bin\Debug\MatrixOps.exe
+c:\users\mooor\documents\visual studio 2015\Projects\MatrixOps\MatrixOps\bin\Debug\MatrixOps.pdb
+c:\users\mooor\documents\visual studio 2015\Projects\MatrixOps\MatrixOps\obj\Debug\MatrixOps.csprojResolveAssemblyReference.cache
+c:\users\mooor\documents\visual studio 2015\Projects\MatrixOps\MatrixOps\obj\Debug\MatrixOps.exe
+c:\users\mooor\documents\visual studio 2015\Projects\MatrixOps\MatrixOps\obj\Debug\MatrixOps.pdb
